@@ -1,2 +1,2 @@
 # Aadhaar_card_information_fetching
-fetch aadhar card number using tesseract in python3 
+To run this code type Python main.py in terminal
